@@ -6,6 +6,6 @@ Styled with Tailwind CSS and enhanced using advanced GSAP animations.
 Fully responsive, user-friendly, and designed for a smooth experience across all devices.
 
 ![image alt](https://github.com/usmanwarisalizia/K27_WebApplication/blob/53d458766a13fa1b5d3514c0bfbb97b445e60dc7/K72img1.png)
-![image alt]()
+![image alt](https://github.com/usmanwarisalizia/K27_WebApplication/blob/50ecc1d03ebecc2e88dc66ccf90fb36c79af5f13/K72img2.png)
 ![image alt]()
 
